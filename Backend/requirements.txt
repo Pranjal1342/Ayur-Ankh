@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic
+pytesseract
+pillow
+pymupdf
+python-multipart
+fhir.resources
+pydicom
+celery
+redis
